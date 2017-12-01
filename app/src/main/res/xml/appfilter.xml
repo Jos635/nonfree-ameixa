@@ -1310,6 +1310,30 @@
 <item component="ComponentInfo{com.yubico.yubioath/com.yubico.yubioath.MainActivity}" drawable="yubico" />
 <item component="ComponentInfo{de.christinecoenen.code.zapp/de.christinecoenen.code.zapp.app.MainActivity}" drawable="zapp"/>
 
+    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify"/>
+
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.CommunityActivity}" drawable="steam"/>
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.LauncherActivity}" drawable="steam"/>
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.SteamGuardActivity}" drawable="steam"/>
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
+
+    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo"/>
+
+    <item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="1password"/>
+
+    <item component="ComponentInfo{com.ing.mobile/com.ing.mobile.app.activities.SplashActivity}" drawable="ing"/>
+
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook"/>
+
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote"/>
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMLauncherActivity}" drawable="onenote"/>
+
+    <item component="ComponentInfo{com.android.vending2/com.android.vending2.MainActivity}" drawable="googleplay"/>
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="googleplay"/>
+    <item component="ComponentInfo{com.android.vending/com.google.android.finsky.activities.TvMainActivity}" drawable="googleplay"/>
+
+    <item component="ComponentInfo{nl.transip.stack/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="stack"/>
+
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />
     <item component=":CALCULATOR" drawable="calculator" />
@@ -1322,5 +1346,4 @@
     <item component=":PHONE" drawable="phone" />
     <item component=":SMS" drawable="messages" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="drawer" />
-
 </resources>
