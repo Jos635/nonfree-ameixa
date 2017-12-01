@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="icon_pack" translatable="false">
-        <item>1password</item>
         <item>aard</item>
         <item>aat</item>
         <item>acal</item>
@@ -99,6 +98,7 @@
         <item>camcorder</item>
         <item>camera1</item>
         <item>camera2</item>
+        <item>camera3</item>
         <item>candymemory</item>
         <item>carcast</item>
         <item>carreport</item>
@@ -165,6 +165,7 @@
         <item>dilbert</item>
         <item>dimmer</item>
         <item>disablemanager</item>
+        <item>discord</item>
         <item>diskusage</item>
         <item>dns66</item>
         <item>dnsman</item>
@@ -422,7 +423,9 @@
         <item>oishoppinglist</item>
         <item>omninotes</item>
         <item>omniswitch</item>
+        <item>onedrive</item>
         <item>onenote</item>
+        <item>onepassword</item>
         <item>onetimepad</item>
         <item>openbikesharing</item>
         <item>opencamera</item>

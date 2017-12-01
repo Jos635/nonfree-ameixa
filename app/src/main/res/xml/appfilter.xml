@@ -1319,7 +1319,7 @@
 
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="todo"/>
 
-    <item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="1password"/>
+    <item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="onepassword"/>
 
     <item component="ComponentInfo{com.ing.mobile/com.ing.mobile.app.activities.SplashActivity}" drawable="ing"/>
 
@@ -1332,7 +1332,13 @@
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="googleplay"/>
     <item component="ComponentInfo{com.android.vending/com.google.android.finsky.activities.TvMainActivity}" drawable="googleplay"/>
 
-    <item component="ComponentInfo{nl.transip.stack/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="stack"/>
+    <item component="ComponentInfo{nl.transip.stack/nl.transip.stack.android.ui.activity.FileDisplayActivity}" drawable="stack"/>
+
+    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord"/>
+
+    <item component="ComponentInfo{com.simplemobiletools.camera/com.simplemobiletools.camera.activities.SplashActivity}" drawable="camera3"/>
+
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
 
     <!-- Nova Launcher specific -->
     <item component=":BROWSER" drawable="browser" />

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <version>1</version>
-    <item drawable="1password" />
     <item drawable="aard" />
     <item drawable="aat" />
     <item drawable="acal" />
@@ -99,6 +98,7 @@
     <item drawable="camcorder" />
     <item drawable="camera1" />
     <item drawable="camera2" />
+    <item drawable="camera3" />
     <item drawable="candymemory" />
     <item drawable="carcast" />
     <item drawable="carreport" />
@@ -165,6 +165,7 @@
     <item drawable="dilbert" />
     <item drawable="dimmer" />
     <item drawable="disablemanager" />
+    <item drawable="discord" />
     <item drawable="diskusage" />
     <item drawable="dns66" />
     <item drawable="dnsman" />
@@ -422,7 +423,9 @@
     <item drawable="oishoppinglist" />
     <item drawable="omninotes" />
     <item drawable="omniswitch" />
+    <item drawable="onedrive" />
     <item drawable="onenote" />
+    <item drawable="onepassword" />
     <item drawable="onetimepad" />
     <item drawable="openbikesharing" />
     <item drawable="opencamera" />
